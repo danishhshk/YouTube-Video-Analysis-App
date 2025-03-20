@@ -5,6 +5,9 @@ opencv-python
 pydub
 pillow
 tensorflow
+keras
+torch
+torchvision
 tensorflow-hub
 moviepy
 speechrecognition
