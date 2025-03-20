@@ -11,3 +11,4 @@ speechrecognition
 yt-dlp
 google-api-python-client
 streamlit-webrtc
+ffmpeg-python
